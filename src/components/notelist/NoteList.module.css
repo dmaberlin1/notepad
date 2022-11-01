@@ -1,0 +1,12 @@
+.NoteListContainer{
+    padding: 0.3rem;
+
+
+}
+.NoteListContainer h2{
+    background-color: #022240;
+    margin: 5px auto;
+
+    color: gold;
+    font-size: 1.5rem;
+}

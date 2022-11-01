@@ -1,0 +1,53 @@
+.NoteFormContainer{
+    display: flex;
+
+}
+
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    font-size: 1.2rem;
+    color:gold;
+    margin: 1rem 1rem;
+    text-align: center;
+    max-width: 50%;
+    border: 2px solid gold;
+    border-radius: 25px;
+}
+
+.submit{
+    padding: 0.3rem;
+    background-color: cadetblue;
+    font-style: italic;
+    font-size: 1.3rem;
+    margin: 0.5rem;
+    color:goldenrod;
+    border-radius: 9px;
+    cursor: pointer;
+
+}
+
+.inputForm{
+    margin: 0.1rem;
+    padding: 0.3rem;
+    background-color: cadetblue;
+    border-radius: 25px;
+    font-style: italic;
+    font-size: 1.3rem;
+    color: goldenrod;
+}
+.inputForm::placeholder{
+    color: goldenrod;
+}
+.button{
+    height: 8rem;
+    width: 4rem;
+    margin-right: 1rem;
+    margin-left: 2rem;
+    background-color:   cadetblue;;
+    color:goldenrod;
+    border-radius: 25px;
+    margin-top: 9rem;
+
+}
